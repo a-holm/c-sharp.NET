@@ -1,0 +1,7 @@
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\obj\Debug\MethodsEnum.csprojResolveAssemblyReference.cache
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\obj\Debug\MethodsEnum.csproj.CoreCompileInputs.cache
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\bin\Debug\MethodsEnum.exe.config
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\bin\Debug\MethodsEnum.exe
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\bin\Debug\MethodsEnum.pdb
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\obj\Debug\MethodsEnum.exe
+J:\programming\Csharp.NET\MethodsEnum\MethodsEnum\obj\Debug\MethodsEnum.pdb
