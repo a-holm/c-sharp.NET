@@ -1,0 +1,10 @@
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\bin\Debug\SimplePaintingApp2.exe.config
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\bin\Debug\SimplePaintingApp2.exe
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\bin\Debug\SimplePaintingApp2.pdb
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.csprojResolveAssemblyReference.cache
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.Form1.resources
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.Properties.Resources.resources
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.csproj.GenerateResource.Cache
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.csproj.CoreCompileInputs.cache
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.exe
+J:\programming\Csharp.NET\SimplePaintingApp2\SimplePaintingApp2\obj\Debug\SimplePaintingApp2.pdb
