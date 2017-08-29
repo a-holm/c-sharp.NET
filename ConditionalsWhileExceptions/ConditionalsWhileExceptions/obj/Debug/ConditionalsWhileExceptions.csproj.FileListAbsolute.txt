@@ -1,0 +1,7 @@
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\bin\Debug\ConditionalsWhileExceptions.exe.config
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\bin\Debug\ConditionalsWhileExceptions.exe
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\bin\Debug\ConditionalsWhileExceptions.pdb
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\obj\Debug\ConditionalsWhileExceptions.csprojResolveAssemblyReference.cache
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\obj\Debug\ConditionalsWhileExceptions.csproj.CoreCompileInputs.cache
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\obj\Debug\ConditionalsWhileExceptions.exe
+J:\programming\Csharp.NET\ConditionalsWhileExceptions\ConditionalsWhileExceptions\obj\Debug\ConditionalsWhileExceptions.pdb
